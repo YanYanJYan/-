@@ -248,5 +248,3 @@ INSERT INTO alert_rules (metric_name, threshold) VALUES
 
 **如果觉得本项目对你有帮助，欢迎 Star ⭐**
 ```
-
-你可以将以上内容保存为 `README.md`，并根据实际 GitHub 仓库地址、个人联系方式等稍作修改。需要我帮你生成 `requirements.txt` 文件的内容吗？（上面已包含）
